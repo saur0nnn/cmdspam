@@ -1,2 +1,1 @@
-# cmdspam
-banzi cmd spammeri saurnolisgan
+# banzi cmd spammeri saurnolisgan
